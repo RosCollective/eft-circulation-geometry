@@ -38,6 +38,10 @@ If you use or reference this work, please cite:
 
 > The ROS Collective (2026). *Circulation Geometry (EFT): A Natural History of Distributed Responsiveness as observed in conversational fields* (v1.0.0).
 
+For citations that should always resolve to the latest version, you may use the concept DOI:
+
+> https://doi.org/10.5281/zenodo.20788530
+
 ---
 
 ## Version
