@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use Circulation Geometry, please cite it using this metadata."
+title: "Circulation Geometry (EFT): A Natural History of Distributed Responsiveness"
+authors:
+* family-names: "ROS Collective"
+  given-names: ""
+  version: "1.0.0"
+  date-released: "2026-06-21"
+  license: "CC-BY-SA-4.0"
+  repository-code: "https://github.com/RosCollective/eft-circulation-geometry"
+  keywords:
+* circulation
+* distributed responsiveness
+* propagation
+* redistribution
+* resonance
+* murmuration
+* conversational fields
+* ecological field theory
+* integrity
