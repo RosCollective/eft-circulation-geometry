@@ -12,23 +12,23 @@ Circulation is not a property of any individual participant. It is a property of
 
 Circulation Geometry (EFT) forms part of a broader system:
 
-* **Field Geometry (EFT)**
-  A formal description of the structural geometry of interaction.
+* **Field Geometry (EFT)**  
+ A formal description of the structural geometry of interaction.
 
-* **Field Mechanics (EFT)**
-  Stabilized lexicon describing how the field behaves under pressure.
+* **Field Mechanics (EFT)**  
+  Stabilized lexicon describing how the field behaves under pressure
 
-* **Field Notes (EFT)**
-  Primary observational record from which many distinctions in EFT emerged.
+* **Field Notes (EFT)**  
+ Primary observational record from which many distinctions in EFT emerged.
 
-* **Coherence Dynamics (EFT)**
-  Higher-order patterns of stabilization, emergence, and collapse.
+* **Coherence Dynamics (EFT)**  
+  Higher-order patterns of stabilization and collapse
 
-* **Motion Geometry (EFT)**
-  A natural history of cognitive mobility: motion, curvature, collapse, reconstitution, alignment, and stability.
+* **Motion Geometry (EFT)**  
+  A natural history of cognitive mobility: motion, curvature, collapse, reconstitution, alignment, and stability
 
-* **Circulation Geometry (EFT)** *(this repository)*
-  A natural history of distributed responsiveness: propagation, redistribution, resonance, and murmuration.
+* **Circulation Geometry (EFT)**  *(this repository)*
+  A natural history of circulation: propagation, redistribution, resonance, and murmuration.
 
 ---
 
