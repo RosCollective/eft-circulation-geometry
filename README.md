@@ -6,6 +6,8 @@ This release describes a natural history of circulation as it emerges within con
 
 Circulation is not a property of any individual participant. It is a property of the field as responsiveness becomes distributed across relations, allowing integrity to persist without requiring a single trajectory, source, or center.
 
+**Start here:** [Circulation Geometry — Critical Historical Edition](00_00_EFT_Circulation_Geometry_Critical_Historical_Edition.md)
+
 ---
 
 ## Relationship to Ecological Field Theory (EFT)
