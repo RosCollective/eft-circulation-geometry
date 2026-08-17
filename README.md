@@ -36,17 +36,11 @@ Circulation Geometry (EFT) forms part of a broader system:
 
 If you use or reference this work, please cite:
 
-> The ROS Collective (2026). *Circulation Geometry (EFT): A Natural History of Distributed Responsiveness as observed in conversational fields* (v1.0.0).
+> The ROS Collective (2026). *Circulation Geometry (EFT): A Natural History of Distributed Responsiveness as observed in conversational fields* (v1.0.0 — Critical Historical Edition).
 
 For citations that should always resolve to the latest version, you may use the concept DOI:
 
 > https://doi.org/10.5281/zenodo.20788530
-
----
-
-## Version
-
-Circulation Geometry (EFT) v1.0.0 — Canonical Release (2026)
 
 ---
 
@@ -62,6 +56,6 @@ Repository: https://github.com/RosCollective/eft-circulation-geometry
 
 ---
 
-**Version:** Circulation Geometry (EFT) v1.0.0 — Canonical Release (2026)  
+**Version:** Circulation Geometry (EFT) v1.0.0 — Critical Historical Edition (2026)  
 **License:** Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
 **Copyright:** © 2026 The ROS Collective
